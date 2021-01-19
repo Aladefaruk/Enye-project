@@ -1,0 +1,23 @@
+.profilecard {
+    background-color: lightblue;
+    border: 2px black;
+    padding: 30px;
+    margin: 20px;
+    width: 250px;
+    height: 450px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.419);
+}
+
+@media only screen and (max-width: 541px){
+    .profilecard{
+        font-size: 15px;
+        margin: 10px;
+        padding: 20px;
+    }
+
+    h1{
+        font-size: 15px;
+    }
+  }
