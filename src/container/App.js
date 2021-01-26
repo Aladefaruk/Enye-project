@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
-import Searchbox from './Searchbox';
-import Profileslist from './Profileslist';
-import Scroll from './scroll'
-import Filterbutton from './Filterbutton';
+import Searchbox from '../components/Searchbox';
+import Profileslist from '../components/Profileslist';
+import Scroll from '../components/scroll'
+import Filterbutton from '../components/Filterbutton';
 import Particles from 'react-particles-js';
 import ReactPaginate from 'react-paginate'
-
 import './App.css';
 
 

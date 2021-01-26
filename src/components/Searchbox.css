@@ -7,3 +7,9 @@
     outline: none;
 }
 
+@media only screen and (max-width: 541px){
+    .inputbox {
+        padding: 15px;
+        vertical-align: baseline;
+    }
+  }
